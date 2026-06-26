@@ -1,10 +1,10 @@
 TASK:1
-https://github.com/inshasahar/Exploring-and-Visualizing-a-Simple-Dataset/commits?
+https://github.com/inshasahar/Exploring-and-Visualizing-a-Simple-Dataset
 TASK:2
-https://github.com/inshasahar/Credit-Risk-Prediction/commitS
+https://github.com/inshasahar/Credit-Risk-Prediction
 TASK:3
-https://github.com/inshasahar/Customer-Churn-Prediction-Bank-Customers-/commits?
+https://github.com/inshasahar/Customer-Churn-Prediction-Bank-Customers-
 TASK:4
-https://github.com/inshasahar/Predicting-Insurance-Claim-Amounts/commits?
+https://github.com/inshasahar/Predicting-Insurance-Claim-Amounts
 TASK:5
-https://github.com/inshasahar/Task-5-Personal-Loan-Acceptance-Prediction/commits
+https://github.com/inshasahar/Task-5-Personal-Loan-Acceptance-Prediction
